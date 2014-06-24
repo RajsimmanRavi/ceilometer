@@ -38,3 +38,9 @@ auth_protocol = http
 
 [database]
 connection = xxx
+
+[email]
+from_addr ='noreply@savinetwork.ca'
+email_password = xxx
+
+
