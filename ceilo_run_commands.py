@@ -86,9 +86,9 @@ alarmDel_output = cr.run_command("ceilometer alarm-delete -a "+alarmList_output[
 
 """ ************************* Send Email ******************************************************* """
 
-from_addr='noreply@savinetwork.ca'
-addr_pwd='WEe2>4PT'
-send_addr_array = ['rajsimmanr@savinetwork.ca','jieyu.lin@savinetwork.ca']
+from_addr='from email address'
+addr_pwd='email address password'
+send_addr_array = ['email addresses to send']
 
 end_time=time.time()
 
